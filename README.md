@@ -6,4 +6,4 @@ Lars:
 
 Christian:
 
-[!["Buy me a Salad."]([https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png](https://giphy.com/gifs/buy-me-a-coffee-support-thanks-for-your-hXMGQqJFlIQMOjpsKC)https://giphy.com/gifs/buy-me-a-coffee-support-thanks-for-your-hXMGQqJFlIQMOjpsKC)](https://www.buymeacoffee.com/gbraad)
+<a href="https://www.buymeacoffee.com/c.mz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a salad&emoji=🥗&slug=c.mz&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
