@@ -13,18 +13,6 @@ Christian:
 </a>
 
 
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'54PX9XF8H9T22',
-image: {
-src:'https://pics.paypal.com/00/s/YzZiZDQxZTMtZWMxNC00OGI3LWI5NWMtZGRmODI5ZTgwNzk0/file.PNG',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
+<a href="https://www.paypal.com/paypalme/christianmueller659">
+  <img src="https://pics.paypal.com/00/s/YzZiZDQxZTMtZWMxNC00OGI3LWI5NWMtZGRmODI5ZTgwNzk0/file.PNG" alt="Donate with PayPal button" />
+</a>
