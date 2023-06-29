@@ -10,4 +10,8 @@ Christian:
 
 <a href="https://www.paypal.com/paypalme/christianmueller659"><img src="https://img.buymeacoffee.com/button-api/?text=paypal me a salad&emoji=🥗" /></a>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="c.mz" data-color="#003087" data-emoji="🥗"  data-font="Lato" data-text="PayPal me a salad" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+<script type="text/javascript" src="https://www.paypal.com/paypalme/christianmueller659" data-name="bmc-button" data-slug="c.mz" data-color="#003087" data-emoji="🥗"  data-font="Lato" data-text="PayPal me a salad" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 [paypal me a salad]([https://www.paypal.com/paypalme/christianmueller659])
